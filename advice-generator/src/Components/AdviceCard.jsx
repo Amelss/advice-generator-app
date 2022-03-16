@@ -38,7 +38,7 @@ export default function AdviceCard() {
               
              
           </div>
-           <button onClick={handleClick} className='bg-neonGreen rounded-full w-14 py-4 px-4 -mt-8 flex mx-auto shadow-none xl:shadow-xl hover:shadow-neonGreen ' >
+           <button onClick={handleClick} className='bg-neonGreen rounded-full w-14 py-4 px-4 -mt-8 flex mx-auto shadow-none xl:shadow-lg hover:shadow-neonGreen ' >
                  <img src="./images/icon-dice.svg" alt="dice" className='w-24' /> 
               </button>
     </div>
