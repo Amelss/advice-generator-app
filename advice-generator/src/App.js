@@ -1,8 +1,11 @@
+import AdviceCard from "./Components/AdviceCard";
+
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+    <div className="bg-darkBlue h-screen">
+
+      <AdviceCard />
     </div>
   );
 }
